@@ -69,7 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Ovdikos/Ovdikos/output/snake.svg" alt="Snake animation" />
-###
