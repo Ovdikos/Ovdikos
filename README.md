@@ -70,9 +70,6 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Ovdikos/Ovdikos/output/snake.svg" alt="Snake animation" />
-
 ###
