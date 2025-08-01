@@ -68,8 +68,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ovdikos/Ovdikos/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ovdikos/Ovdikos/output/snake.svg" alt="Snake animation" />
-
-###
